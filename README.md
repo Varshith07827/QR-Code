@@ -47,7 +47,7 @@ python qr_generator.py
 ### QR Code Reader
 Run the reader:
 ```bash
-python qr_reader.py
+python qr_reader_gt.py
 ```
 
 1. Choose between reading from camera or file
